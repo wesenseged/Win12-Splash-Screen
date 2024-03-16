@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel/Splash",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "wesenseged@skiff.com",
+        "Name": "wesenseged"
+      }
+    ],
+    "Category": "",
+    "Description": "Win12 Splashscreen For Plasma 6",
+    "Id": "Win12",
+    "Name": "Win12",
+    "Website": "https://github.com/wesenseged/Win12"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2"
+}
